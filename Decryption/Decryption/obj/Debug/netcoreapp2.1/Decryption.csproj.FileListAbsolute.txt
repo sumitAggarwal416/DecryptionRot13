@@ -1,0 +1,33 @@
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.deps.json
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.json
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.dev.json
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.dll
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.pdb
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csprojAssemblyReference.cache
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csproj.CoreCompileInputs.cache
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfoInputs.cache
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfo.cs
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.dll
+C:\Users\000793607\Downloads\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.pdb
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.deps.json
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.json
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.dev.json
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.dll
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.pdb
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csprojAssemblyReference.cache
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csproj.CoreCompileInputs.cache
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfoInputs.cache
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfo.cs
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.dll
+C:\Users\000793607\Downloads\NET (2)\NET\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.pdb
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.deps.json
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.json
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.runtimeconfig.dev.json
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.dll
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\bin\Debug\netcoreapp2.1\Decryption.pdb
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csprojAssemblyReference.cache
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.csproj.CoreCompileInputs.cache
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfoInputs.cache
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.AssemblyInfo.cs
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.dll
+A:\Mohawk\Sem3\.NET\Decryption\Decryption\obj\Debug\netcoreapp2.1\Decryption.pdb
